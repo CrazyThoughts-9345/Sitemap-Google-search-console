@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+	<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+		<url>
+			<loc>
+				https://crazyyythoughts.blogspot.com/2023/10/the-beautiful-chaos-of-crazy-thoughts.html
+			</loc>					
+			<lastmod>2023-10-29T15:48:56Z</lastmod>
+		</url>
+		<url>
+			<loc>
+				https://crazyyythoughts.blogspot.com/2023/10/embracing-madness-exploring-beauty-of.html
+			</loc>
+			<lastmod>2023-10-29T15:42:02Z</lastmod>
+		</url>
+	</urlset>
